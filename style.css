@@ -9,3 +9,10 @@
 .validation-input.invalid {
   border-color: #f44336;
 }
+
+.task03Images {
+  width: 100px;
+}
+ul{
+  list-style: none;
+}
